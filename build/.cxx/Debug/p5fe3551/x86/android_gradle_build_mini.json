@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/dudxs/Documents/flutter/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/dudxs/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/dudxs/projects/financialize_mobile/build/.cxx/Debug/p5fe3551/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/dudxs/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/dudxs/projects/financialize_mobile/build/.cxx/Debug/p5fe3551/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
